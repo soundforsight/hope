@@ -3,3 +3,5 @@ title: Sound For Sight
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-feed
