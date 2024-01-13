@@ -1,1 +1,2 @@
-[Link to our Site](https://soundforsight.github.io/hope/impact)
+- [Impact](https://soundforsight.github.io/hope/impact)
+- [Innovation](https://soundforsight.github.io/hope/innovation)
