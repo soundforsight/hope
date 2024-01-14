@@ -2,14 +2,10 @@
 layout: default
 ---
 
-# Sound For Sight 
-
-- [Impact](https://soundforsight.github.io/hope/impact)
-- [Innovation](https://soundforsight.github.io/hope/innovation)
-
 # Welcome to Our Innovative Solution for the Visually Impaired
 
 ## Navigation
+- [Home](https://soundforsight.github.io/hope/)
 - [Impact](https://soundforsight.github.io/hope/impact)
 - [Innovation](https://soundforsight.github.io/hope/innovation)
 - [Team](https://soundforsight.github.io/hope/team)

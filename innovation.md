@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## Navigation
+- [Home](https://soundforsight.github.io/hope/)
+- [Impact](https://soundforsight.github.io/hope/impact)
+- [Innovation](https://soundforsight.github.io/hope/innovation)
+- [Team](https://soundforsight.github.io/hope/team)
+
 # Our Innovation
 
 ## The Problem

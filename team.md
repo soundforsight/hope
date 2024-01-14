@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## Navigation
+- [Home](https://soundforsight.github.io/hope/)
+- [Impact](https://soundforsight.github.io/hope/impact)
+- [Innovation](https://soundforsight.github.io/hope/innovation)
+- [Team](https://soundforsight.github.io/hope/team)
+
 # Our Team
 
  <img width="840" alt="image" src="https://github.com/rachit-j/ww3/assets/56803677/0b8ed455-6bf9-469e-a4b9-b788f75a2bd1">

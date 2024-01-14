@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## Navigation
+- [Home](https://soundforsight.github.io/hope/)
+- [Impact](https://soundforsight.github.io/hope/impact)
+- [Innovation](https://soundforsight.github.io/hope/innovation)
+- [Team](https://soundforsight.github.io/hope/team)
+
 # Impact
 
 The white cane is still the most commonly used device to assist the visually impaired. Imagine how life-changing a technological alternative would be in creating a more accessible world. Our application offers a more affordable and serviceable alternative, promoting inclusivity and self reliance. 
